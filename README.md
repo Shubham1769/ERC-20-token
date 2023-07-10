@@ -6,10 +6,15 @@ The ERC-20 introduces a standard for Fungible Tokens, in other words, they have 
 
 The ERC-20 (Ethereum Request for Comments 20), proposed by Fabian Vogelsteller in November 2015, is a Token Standard that implements an API for tokens within Smart Contracts.
 Example functionalities ERC-20 provides:
+
 1.transfer tokens from one account to another
+
 2.get the current token balance of an account
+
 3.get the total supply of the token available on the network
+
 4.approve whether an amount of token from an account can be spent by a third-party account
+
 
 detailed explanation of each function in the code:
 
@@ -51,5 +56,5 @@ detailed explanation of each function in the code:
 These functions collectively provide the core functionalities required for an ERC20 token contract, including balance queries, token transfers, approvals, and allowance checks.
 
 Deployed Contract Link for easy access for checking:
-https://thirdweb.com/contracts/deploy/QmXtHYyASin8BpPRjxzKvfhA5fLo8
-BbPwV55Kp4nbjL7BC
+
+https://thirdweb.com/contracts/deploy/QmXtHYyASin8BpPRjxzKvfhA5fLo8BbPwV55Kp4nbjL7BC
